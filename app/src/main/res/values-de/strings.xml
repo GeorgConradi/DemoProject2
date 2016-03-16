@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="introText">Hallo Welt - verändert!</string>
+    <string name="action_settings">Eigenschaften</string>
+</resources>
